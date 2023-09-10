@@ -19,6 +19,8 @@ public class Motor {
 	public void stop() {
 		System.out.println("Motor stopped");
 //add the comment
+//delete the comments
+		
 	}
 
 }

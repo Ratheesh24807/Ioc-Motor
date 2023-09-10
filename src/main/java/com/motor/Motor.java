@@ -6,6 +6,7 @@ public class Motor {
 		System.out.println("Motor :: constructor");
 	}
 
+	//hi how are you
 	public void start() {
 		System.out.println("Motor started");
 
